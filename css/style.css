@@ -1,0 +1,57 @@
+@charset "UTF-8";
+#canvas{
+	display:block;
+	margin:0 auto;
+}
+.controller{
+	width:600px;
+	margin:0 auto;
+	overflow:hidden;
+}
+.color_btn{
+	width:40px;
+	height:40px;
+	float:left;
+	margin:5px 10px 0;
+	border:5px solid white;
+	border-radius:5px 5px;
+}
+.color_btn:hover{
+	border:5px solid violet;
+}
+div[class*="color_btn"].color_btn_selected{
+	border:5px solid blueviolet;
+}
+#black_btn{
+	background-color:black;
+}
+#blue_btn{
+	background-color:blue;
+}
+#green_btn{
+	background-color:green;
+}
+#red_btn{
+	background-color:red;
+}
+#orange_btn{
+	background-color:orange;
+}
+#yellow_btn{
+	background-color:yellow;
+}
+.clear{
+	float:right;
+	display:block;
+	margin-top:15px;
+	outline:none;
+	width:60px;
+	height:25px;
+}
+.clear:hover{
+	background:#def;
+}
+.clearflx{
+	clear:both;
+
+}
