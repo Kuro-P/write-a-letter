@@ -11,6 +11,6 @@ canvas 绘制触屏写字编辑器（慕课网练习）
 * 需要阻止事件默认行为，防止浏览器页面滚动
 
 ## 预览
-预览地址：https://kuro-p.github.io/Write-a-letter/main.html
+预览地址：https://kuro-p.github.io/write-a-letter/index.html
 
-![image](https://github.com/Kuro-P/Write-a-letter/blob/master/img/mobile.jpg "移动端截图")
+![image](https://github.com/Kuro-P/Write-a-letter/blob/master/preview/mobile.jpg "移动端截图")
